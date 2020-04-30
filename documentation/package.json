@@ -18,7 +18,7 @@
     "handlebars": "^4.0.8",
     "handlebars-loader": "^1.5.0",
     "html-loader": "^0.4.5",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "json-loader": "^0.5.4",
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
