@@ -15,7 +15,7 @@
     "file-loader": "^0.11.1",
     "fixto": "git://github.com/bbarakaci/fixto",
     "google-code-prettify": "git://github.com/pts-michaelvera/google-code-prettify",
-    "handlebars": "^4.0.8",
+    "handlebars": "^4.5.3",
     "handlebars-loader": "^1.5.0",
     "html-loader": "^0.4.5",
     "jquery": "^3.2.1",
